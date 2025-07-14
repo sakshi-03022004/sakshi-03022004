@@ -44,7 +44,10 @@ Here are some ideas to get you started:
     - 📍 Connect Local: Hyperlocal app to connect people within a particular area
     - 💬 ChatApp: Basic real-time chat app
 
-  
+### 🏆 Achievements & Contributions
+- 📦 [**Learn and Achieve**]: An educational platform 
+- 🗓️ [**Connect Local**]: Hyperlocal app to connect people within a particular area
+- 💬 [**ChatApp**]: Basic real-time chat app
 
     
   ### 🧰 Tech Stack
