@@ -44,13 +44,16 @@ Here are some ideas to get you started:
     📦 Learn and Achieve: An educational platform 
     📍 Connect Local: Hyperlocal app to connect people within a particular area
     💬 ChatApp: Basic real-time chat app
-  
 
   
- ### 🧰 Tech Stack
+
+    
+  ### 🧰 Tech Stack
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,github" />
   </p>
+
+
 
 
 
