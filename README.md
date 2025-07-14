@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sakshi Ranjan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Techlead+@Ninjafarm;Empowering+Startups+with+Purposeful+Apps;Turning+Ideas+into+Real+World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f23b4f&center=true&vCenter=true&width=700&lines=Software+Developer;Turning+Ideas+into+Real+World+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="left">
