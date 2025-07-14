@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 ### 🏆 Achievements & Contributions
-    📦 Learn and Achieve: An educational platform 
-    📍 Connect Local: Hyperlocal app to connect people within a particular area
-    💬 ChatApp: Basic real-time chat app
+    - 📦 Learn and Achieve: An educational platform 
+    - 📍 Connect Local: Hyperlocal app to connect people within a particular area
+    - 💬 ChatApp: Basic real-time chat app
 
   
 
