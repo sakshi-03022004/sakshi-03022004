@@ -31,17 +31,32 @@ Here are some ideas to get you started:
 </p>
 
 
-### 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,reactjs,nextjs,nodejs,github" />
-</p>
+  💻 What I Do
+  🚀 Build full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js)
+  🧩 Create reusable and responsive components for scalable frontend architecture
+  🔐 Implement secure authentication & REST APIs for robust backend systems
+  🧠 Continuously learn & adapt to new technologies in the JavaScript ecosystem
+  
+
+ ### 🧰 Tech Stack
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,reactjs,nextjs,nodejs,github" />
+  </p>
+
 
 
 ### 📫 Connect with Me
+
 <p align="left">
-  <a href="mailto:sakshiranjan240@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sakshi-ranjan-4896b02b6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-</p> 
+  <a href="mailto:sakshiranjan240@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/sakshi-ranjan-4896b02b6/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" />
+  </a>
+</p>
+
+
 
 
 <p align="center">
