@@ -31,16 +31,15 @@ Here are some ideas to get you started:
 </p>
 
 
-  💻 What I Do
-  🚀 Build full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js)
-  🧩 Create reusable and responsive components for scalable frontend architecture
-  🔐 Implement secure authentication & REST APIs for robust backend systems
-  🧠 Continuously learn & adapt to new technologies in the JavaScript ecosystem
+  ###  💻 What I Do
+  🚀 Build **web application** using the MERN stack (MongoDB, Express.js, React.js, Node.js)
+- ⚙️ Create **reusable and responsive components** for scalable frontend architecture.
+- 🔐 Implement secure authentication & REST APIs for robust backend systems
+- 🧠 Continuously learn & adapt to new technologies in the JavaScript ecosystem
 
 
 
-
-  🏆 Achievements & Contributions
+### 🏆 Achievements & Contributions
     📦 Learn and Achieve: An educational platform 
     📍 Connect Local: Hyperlocal app to connect people within a particular area
     💬 ChatApp: Basic real-time chat app
