@@ -45,20 +45,20 @@ Here are some ideas to get you started:
 - 💬 [**ChatApp**]: Basic real-time chat app
 
     
-  ### 🧰 Tech Stack
+ ### 🧰 Tech Stack
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,github" />
   </p>
 
 
 
+### 📫 Connect with Me
+<p align="left">
+  <a href="mailto:sakshiranjan240@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sakshi-ranjan-4896b02b6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 
+</p>
 
-   ### 📫 Connect with Me
-      <p align="left">
-        <a href="mailto:sakshiranjan240@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/sakshi-ranjan-4896b02b6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-      </p>
 
 
 
