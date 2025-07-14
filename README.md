@@ -40,11 +40,6 @@ Here are some ideas to get you started:
 
 
 ### 🏆 Achievements & Contributions
-    - 📦 Learn and Achieve: An educational platform 
-    - 📍 Connect Local: Hyperlocal app to connect people within a particular area
-    - 💬 ChatApp: Basic real-time chat app
-
-### 🏆 Achievements & Contributions
 - 📦 [**Learn and Achieve**]: An educational platform 
 - 🗓️ [**Connect Local**]: Hyperlocal app to connect people within a particular area
 - 💬 [**ChatApp**]: Basic real-time chat app
@@ -59,11 +54,11 @@ Here are some ideas to get you started:
 
 
 
- ### 📫 Connect with Me
-  <p align="left">
-    <a href="mailto:sakshiranjan240@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/sakshi-ranjan-4896b02b6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  </p>
+   ### 📫 Connect with Me
+      <p align="left">
+        <a href="mailto:sakshiranjan240@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/sakshi-ranjan-4896b02b6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+      </p>
 
 
 
