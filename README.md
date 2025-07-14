@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
   ###  💻 What I Do
-  🚀 Build **web application** using the MERN stack (MongoDB, Express.js, React.js, Node.js)
+- 🚀 Build **web application** using the MERN stack (MongoDB, Express.js, React.js, Node.js)
 - ⚙️ Create **reusable and responsive components** for scalable frontend architecture.
 - 🔐 Implement secure authentication & REST APIs for robust backend systems
 - 🧠 Continuously learn & adapt to new technologies in the JavaScript ecosystem
